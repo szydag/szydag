@@ -2,5 +2,6 @@
 
 I am a 2nd year software engineering student at Konya Technical University.
 
-- 🔭 I’m currently working on frontend-web
-- 🌱 I’m currently learning java
+- 🔭 I’m currently working on Frontend-web
+- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Flutter
