@@ -23,7 +23,7 @@ I am a 2nd year software engineering student at Konya Technical University.
 
 ### Social Media
 
-[![linkedin 1](https://user-images.githubusercontent.com/96542141/223511774-c819c855-8d1a-4552-89cc-70f649f62160.png)](https://www.linkedin.com/in/%C5%9Faziye-da%C4%9F-18a404223/)
-[![medium 1](https://user-images.githubusercontent.com/96542141/223512173-a8a97ea1-c84a-41cd-bba0-7b01c285c71c.png)](https://medium.com/@saziyeedag)
+[![linkedin 2](https://user-images.githubusercontent.com/96542141/223513475-44f480ca-195d-485f-8260-0de4049dee9d.png)](https://www.linkedin.com/in/%C5%9Faziye-da%C4%9F-18a404223/)
+[![medium 2](https://user-images.githubusercontent.com/96542141/223513536-9d356734-3c0e-480a-a5a8-e218ffdbf692.png)](https://medium.com/@saziyeedag)
 [![stackowerflow 1](https://user-images.githubusercontent.com/96542141/223512348-17e421bd-58fc-4a28-bd8c-649b357c2ed0.png)](https://stackoverflow.com/users/21351306/saziye)
 
