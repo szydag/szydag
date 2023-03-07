@@ -16,8 +16,6 @@ I am a 2nd year software engineering student at Konya Technical University.
 ![html2](https://user-images.githubusercontent.com/96542141/223391061-aba38881-aa79-4fa5-8ce4-120430197334.png)
 ![css2](https://user-images.githubusercontent.com/96542141/223390995-07a450e4-e092-41c9-9c42-90dd108ca6fc.png)
 ![js 2](https://user-images.githubusercontent.com/96542141/223391069-3510cbd2-c9e0-49f6-a3b6-469e9b599376.png)
-![python2](https://user-images.githubusercontent.com/96542141/223391100-e882bdef-d36c-4036-93a1-7d8e654401fc.png)
-![c#2](https://user-images.githubusercontent.com/96542141/223390968-ade322c1-1750-4f00-8ad0-682223c0d151.png)
 ![figma2](https://user-images.githubusercontent.com/96542141/223391021-eab568bc-38c7-4606-97d5-e7b82376eb1a.png)
 
 
