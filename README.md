@@ -11,11 +11,15 @@ I am a 2nd year software engineering student at Konya Technical University.
 
 ### Skils
 
+![c2](https://user-images.githubusercontent.com/96542141/223390980-1b9a5ed2-f9e1-48d6-a02c-e40b97f0f33d.png)
+![java 1](https://user-images.githubusercontent.com/96542141/223391034-2692da7d-38dd-4d1d-bd26-26c7f377e72a.png)
+![html2](https://user-images.githubusercontent.com/96542141/223391061-aba38881-aa79-4fa5-8ce4-120430197334.png)
+![css2](https://user-images.githubusercontent.com/96542141/223390995-07a450e4-e092-41c9-9c42-90dd108ca6fc.png)
+![js 2](https://user-images.githubusercontent.com/96542141/223391069-3510cbd2-c9e0-49f6-a3b6-469e9b599376.png)
+![python2](https://user-images.githubusercontent.com/96542141/223391100-e882bdef-d36c-4036-93a1-7d8e654401fc.png)
+![c#2](https://user-images.githubusercontent.com/96542141/223390968-ade322c1-1750-4f00-8ad0-682223c0d151.png)
+![figma2](https://user-images.githubusercontent.com/96542141/223391021-eab568bc-38c7-4606-97d5-e7b82376eb1a.png)
 
-![c# 1](https://user-images.githubusercontent.com/96542141/223390216-4716b8d0-d804-40a3-a2e1-f677fdfc3e80.png)
-![c-ikon](https://user-images.githubusercontent.com/96542141/223390244-8e8dc64e-b899-47b1-b2fd-21f0c8f1fb21.png)
-![css 1](https://user-images.githubusercontent.com/96542141/223390261-9185aeb6-71b6-47ba-9b01-6b84f0571b14.png)
-![figma 1](https://user-images.githubusercontent.com/96542141/223390283-9f93ce1f-f189-44be-927c-4408e0fbcad8.png)
-![html 1](https://user-images.githubusercontent.com/96542141/223390293-b655e665-a8ad-490f-a0be-275304020511.png)
-![java 1](https://user-images.githubusercontent.com/96542141/223390383-9ac49bfd-8b5c-4e5f-bccb-3b5d6d8bfa1a.png)![js 1](https://user-images.githubusercontent.com/96542141/223390396-94411c66-5eb1-4798-90ca-04a124d11e54.png)
-![python 1](https://user-images.githubusercontent.com/96542141/223390417-783f050a-b3b7-46f4-8ef6-668421c298f2.png)
+
+
+
