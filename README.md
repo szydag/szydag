@@ -11,12 +11,11 @@ I am a 2nd year software engineering student at Konya Technical University.
 
 ### Skills
 
-![c2](https://user-images.githubusercontent.com/96542141/223390980-1b9a5ed2-f9e1-48d6-a02c-e40b97f0f33d.png)
-[![java 1](https://user-images.githubusercontent.com/96542141/223391034-2692da7d-38dd-4d1d-bd26-26c7f377e72a.png)](https://www.java.com/tr/)
-![html-css 1](https://user-images.githubusercontent.com/96542141/223392198-c7808e4f-a603-4ae2-a11f-3979aec8d7e4.png)
-[![js 2](https://user-images.githubusercontent.com/96542141/223391069-3510cbd2-c9e0-49f6-a3b6-469e9b599376.png)](https://www.javascript.com/)
-[![figma2](https://user-images.githubusercontent.com/96542141/223391021-eab568bc-38c7-4606-97d5-e7b82376eb1a.png)](https://www.figma.com/)
-
-
+![c3](https://user-images.githubusercontent.com/96542141/223508444-9738dca6-3c2d-425d-8dc9-d0cde69d24ce.png)
+[![java3](https://user-images.githubusercontent.com/96542141/223508543-fdca02c2-4384-4f3c-8bcd-e9768d9f5bd3.png)](https://www.java.com/tr/)
+![html4](https://user-images.githubusercontent.com/96542141/223508321-aa8b523d-9198-4730-bb84-0bcefe23dd0a.png)
+![css4](https://user-images.githubusercontent.com/96542141/223508289-1cf94328-1d0a-4154-9764-0e574858b60c.png)
+[![js3](https://user-images.githubusercontent.com/96542141/223508634-1b70eafc-94dc-4c0e-996d-8f93be1e1e56.png)](https://www.javascript.com/)
+[![figma3](https://user-images.githubusercontent.com/96542141/223508735-f5e5550f-3655-41e3-a837-b5ac01c2c88c.png)](https://www.figma.com/)
 
 
