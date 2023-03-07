@@ -2,7 +2,8 @@
 # Şaziye Dağ
 ### Front-end Devoloper
 
-I am a 2nd year software engineering student at Konya Technical University.
+Hello, I'm Şaziye. I am 19 years old and I have been interested in software for 2 years. It excites me to be at the head of my life and software journey. 
+I am studying software engineering at Konya Technical University. I love doing research and learning while having fun.
 
 - 🔭 I’m currently working on Frontend-web
 - 🌱 I’m currently learning Java
