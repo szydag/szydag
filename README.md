@@ -21,7 +21,6 @@ I am studying software engineering at Konya Technical University. I love doing r
 
 
 
-
 ### Social Media
 
 [![linkedin 2](https://user-images.githubusercontent.com/96542141/223513475-44f480ca-195d-485f-8260-0de4049dee9d.png)](https://www.linkedin.com/in/%C5%9Faziye-da%C4%9F-18a404223/)
