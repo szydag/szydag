@@ -6,7 +6,7 @@ Hello, I'm Şaziye. I am 19 years old and I have been interested in software for
 I am studying software engineering at Konya Technical University. I love doing research and learning while having fun.
 
 - 🔭 I’m currently working on Frontend-web
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 🌱 I’m currently learning Flutter
 
 
