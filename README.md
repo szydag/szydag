@@ -8,7 +8,6 @@ I am studying software engineering at Konya Technical University. I love doing r
 - 🔭 I’m currently working on Frontend-web
 - 🌱 I’m currently learning C#
 - 🌱 I’m currently learning JavaScript
-- 🌱 I’m currently learning Flutter
 
 
 ### Skills
