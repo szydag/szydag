@@ -7,8 +7,8 @@ I am studying software engineering at Konya Technical University. I love doing r
 
 - 🔭 I’m currently working on Frontend-web
 - 🔭 I’m currently working on UI
-- 🌱 I’m currently learning C#
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m learning C#
+- 🌱 I’m learning JavaScript
 
 
 ### Skills
