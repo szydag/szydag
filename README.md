@@ -11,6 +11,11 @@ I am studying software engineering at Konya Technical University. I love doing r
 - 🌱 I’m learning JavaScript
 
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+
+
+
 ### Skills
 
 [![c3](https://user-images.githubusercontent.com/96542141/223508444-9738dca6-3c2d-425d-8dc9-d0cde69d24ce.png)](https://tr.wikipedia.org/wiki/C_(programlama_dili))
