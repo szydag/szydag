@@ -11,7 +11,7 @@ I am studying software engineering at Konya Technical University. I love doing r
 - 🌱 I’m learning JavaScript
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=szydag&show_icons=true&theme=gradient) 
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=szydag&show_icons=true&theme=radical)
 
 
