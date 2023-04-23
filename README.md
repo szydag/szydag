@@ -12,6 +12,8 @@ I am studying software engineering at Konya Technical University. I love doing r
 
 
 
+
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=szydag&show_icons=true&theme=radical)
 
 
