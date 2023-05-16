@@ -9,7 +9,6 @@ I am studying software engineering at Konya Technical University. I love doing r
 - 🔭 I’m currently working on UI
 - 🌱 I’m learning C#
 - 🌱 I’m learning JavaScript
-- 
 
 
 
