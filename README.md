@@ -17,6 +17,7 @@ I am studying software engineering at Konya Technical University. I love doing r
 
 
 
+
 ### Skills
 
 [![c3](https://user-images.githubusercontent.com/96542141/223508444-9738dca6-3c2d-425d-8dc9-d0cde69d24ce.png)](https://tr.wikipedia.org/wiki/C_(programlama_dili))
