@@ -20,7 +20,7 @@ I am studying software engineering at Konya Technical University. I love doing r
 
 ### Skills
 
-[![c3](https://user-images.githubusercontent.com/96542141/223508444-9738dca6-3c2d-425d-8dc9-d0cde69d24ce.png)]
+![c3](https://user-images.githubusercontent.com/96542141/223508444-9738dca6-3c2d-425d-8dc9-d0cde69d24ce.png)
 ![c# 1](https://github.com/szydag/szydag/assets/96542141/38634f3d-fb9e-43cc-ba95-9f0949edf173)
 [![java3](https://user-images.githubusercontent.com/96542141/223508543-fdca02c2-4384-4f3c-8bcd-e9768d9f5bd3.png)](https://www.java.com/tr/)
 [![html4](https://user-images.githubusercontent.com/96542141/223508321-aa8b523d-9198-4730-bb84-0bcefe23dd0a.png)](https://html.com/)
