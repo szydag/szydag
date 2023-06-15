@@ -30,9 +30,3 @@ I am studying software engineering at Konya Technical University. I love doing r
 
 
 
-### Social Media
-
-[![linkedin 2](https://user-images.githubusercontent.com/96542141/223513475-44f480ca-195d-485f-8260-0de4049dee9d.png)](https://www.linkedin.com/in/%C5%9Faziye-da%C4%9F-18a404223/)
-[![medium 2](https://user-images.githubusercontent.com/96542141/223513536-9d356734-3c0e-480a-a5a8-e218ffdbf692.png)](https://medium.com/@saziyeedag)
-[![stackowerflow 1](https://user-images.githubusercontent.com/96542141/223512348-17e421bd-58fc-4a28-bd8c-649b357c2ed0.png)](https://stackoverflow.com/users/21351306/saziye)
-
