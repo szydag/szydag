@@ -8,7 +8,7 @@ I am studying software engineering at Konya Technical University. I love doing r
 - 🔭 I’m currently working on Frontend-web
 - 🔭 I’m currently working on UI
 - 🌱 I’m learning Flutter
-- 🌱 I’m learning JavaScript
+- 🌱 I’m learning React
 
 
 
