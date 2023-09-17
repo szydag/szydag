@@ -18,6 +18,7 @@ I am studying software engineering at Konya Technical University. I love doing r
 
 
 
+
 ### Skills
 
 
