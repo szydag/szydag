@@ -2,7 +2,7 @@
 # Şaziye Dağ
 ### Front-end Devoloper
 
-Hello, I'm Şaziye. I am 19 years old and I have been interested in software for 2 years. It excites me to be at the head of my life and software journey. 
+Hello, I'm Şaziye. I am 20 years old and I have been interested in software for 2 years. It excites me to be at the head of my life and software journey. 
 I am studying software engineering at Konya Technical University. I love doing research and learning while having fun.
 
 
