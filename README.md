@@ -1,5 +1,5 @@
 ## Hi 👋 Welcome to my GitHub profile
-# Şaziye Dağ
+# Şaziye DAĞ
 ### Front-end Devoloper
 
 Hello! I'm Şaziye, 20 years old, and I've been involved in the world of software for 2 years. I'm a software engineering student at Konya Technical University. I enjoy doing research and learning while having fun. Explore my projects on my GitHub profile and feel free to get in touch for collaboration. With my passion for technology, I aim to achieve greater things in the future. Welcome!
