@@ -6,6 +6,7 @@ Hello! I'm Şaziye, 20 years old, and I've been involved in the world of softwar
 
 
 
+
 - 🔭 I’m currently working on Frontend-web
 - 🔭 I’m currently working on UI
 - 🌱 I’m learning React
